@@ -8,5 +8,5 @@
  
 • 📫 How to reach me: eryilmazmine6@gmail.com
 
-• ⚡ Fun fact:![<İnstagram>](https://img.shields.io/badge/<Buton üzerinde bulunacak metin>-<white>?style=for-the-badge&logo=<İnstagram>&logoColor=<Logo rengi>)(https://www.instagram.com/mine.erylmazz/)
+• ⚡ Fun fact:(https://www.instagram.com/mine.erylmazz/)
 
