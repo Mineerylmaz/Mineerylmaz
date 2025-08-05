@@ -20,7 +20,7 @@
 | 💕 Languages & Tools 💕 |
 | :---------------------: |
 | ![Python](https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/Java-FEC8D8?style=flat&logo=openjdk&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FEC8D8?style=flat&logo=openjdk&logoColor=black)  
 ![C#](https://img.shields.io/badge/C%23-FADADD?style=flat&logo=csharp&logoColor=black)  
 ![React](https://img.shields.io/badge/React-FFB6C1?style=flat&logo=react&logoColor=black)  
 ![Flutter](https://img.shields.io/badge/Flutter-FF69B4?style=flat&logo=flutter&logoColor=black)  
